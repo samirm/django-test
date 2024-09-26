@@ -29,7 +29,7 @@ ALLOWED_HOSTS = [
     '.awsapprunner.com',
     'localhost',
     '127.0.0.1',
-    'eb-django-app-dev.elasticbeanstalk.com',
+    'norbit-dev.us-east-1.elasticbeanstalk.com',
     'pages.dev'
 ]
 
